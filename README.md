@@ -28,13 +28,18 @@ Analysis is done for finding the answer to these questions such as:
 6- top products 
 
 ## Results / Findings :
-Stores has the highest sales on Sunday and lowest on Tuesday
-Different store has different peak time generally after 10 a.m the number of customers are going down.
+1- Stores has the highest sales on Sunday and lowest on Tuesday
+2- Different store has different peak time generally after 10 a.m the number of customers are going down.
 Peak hour according to stores:
-|store|Peak hour|
-|3    |9|
-|8    |10|
-|5    |8|
+|Store Name|Peak hour|
+|Astoria    |9|
+|Hell's Kitchen   |10|
+|Lower Manhattan   |8|
+3-|Store Name|Product in high demand|
+|Astoria    |Brewed Chai tea and Gourmet brewed coffee|
+|Hell's Kitchen   |Barista Espresso and Gourmet brewed coffee|
+|Lower Manhattan   |Barista Espresso and Brewed Chai tea|
+4,5 and 6 are answered in dashboard
 
 
 
