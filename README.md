@@ -10,10 +10,36 @@ Excel (Power Query)
 Download dataset from this page
 https://mavenanalytics.io/data-playground?page=5&pageSize=5
 
+## Data Cleaning and preparation 
+In the data cleaning and preparation phase, following tasks are done:
+1- check for null values and duplicates in data
+2- Create seperate columns:
+      for size of the product, day name and number from transaction date column, month name and month column from transaction date column, hour from transaction time column
+3- Make a column for total_bill from Quantity and unit price.
+ 
+
 ## Recommended Analysis:
+Analysis is done for finding the answer to these questions such as:
+1- How the sales vary by day or time of the day?
+2- what are the peak hours at individual store to cope with customers in terms of waiters or sources?
+3 Store wise products demand so all the ingredients are available at the store?
+4- Whats the sales revenue for each month?
+5- what is the average price and order per peson?
+6- top products 
+
+## Results / Findings :
+Stores has the highest sales on Sunday and lowest on Tuesday
+Different store has different peak time generally after 10 a.m the number of customers are going down.
+Peak hour according to stores:
+|store|Peak hour|
+|3    |9|
+|8    |10|
+|5    |8|
 
 
-## Recommendations:
 
-## References
+
+
+
+
 
