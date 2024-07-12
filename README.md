@@ -38,9 +38,9 @@ Peak hour according to stores:<br>
 <br>
 3. |Store Name|Product in high demand|<br>
 |:---------------:|:---------:|<br>
-|Astoria    |Brewed Chai tea and Gourmet brewed coffee|
-|Hell's Kitchen   |Barista Espresso and Gourmet brewed coffee|
-|Lower Manhattan   |Barista Espresso and Brewed Chai tea|
+|Astoria    |Brewed Chai tea and Gourmet brewed coffee|<br>
+|Hell's Kitchen   |Barista Espresso and Gourmet brewed coffee|<br>
+|Lower Manhattan   |Barista Espresso and Brewed Chai tea|<br>
 <br>
 4. Dashboard shows the month wise sales revenue.<br>
 5. Brewed Chai tea, Gourmet brewed coffee, Barista Espresso..
