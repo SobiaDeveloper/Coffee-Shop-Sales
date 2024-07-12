@@ -20,7 +20,7 @@ In the data cleaning and preparation phase, following tasks are done:
 
 ## Recommended Analysis:
 Analysis is done for finding the answer to these questions such as:
-1- How the sales vary by day or time of the day?
+1 * How the sales vary by day or time of the day?
 2- what are the peak hours at individual store to cope with customers in terms of waiters or sources?
 3 Store wise products demand so all the ingredients are available at the store?
 4- Whats the sales revenue for each month?
